@@ -10,7 +10,8 @@ Technologies I Used:
 ```
 For remote,
 You can also try it from Windows Server (or Azure) if you have bought one on your own. 
-But, you need to configure PHP or else you may need to use ASP instead.
+For remote hosting, you need to purchase IP and configure them.
+Also, you need to configure PHP or else you may need to use ASP instead.
 ```
 
 ```
