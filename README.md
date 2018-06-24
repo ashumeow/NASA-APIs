@@ -9,7 +9,7 @@ Technologies I Used:
 
 ```
 For local (alternative options),
-You can run it in XAMPP too instead of IIS.
+You can run it in XAMPP (or) Apache directly using VirtualBox (Docker/Vagrant) too instead of IIS.
 ```
 
 ```
