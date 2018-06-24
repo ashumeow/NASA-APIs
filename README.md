@@ -8,5 +8,5 @@ Technologies Used:
 ```
 
 ```
-License: Apache
+Apache License 2.0
 ```
