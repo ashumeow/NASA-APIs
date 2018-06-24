@@ -5,7 +5,6 @@ NASA "Astronomy Picture Of the Day" (<a href="https://apod.nasa.gov/apod/">APOD<
 For my Demo access --- [<a href="http://geekresearchlab.net/NASA/open_api/apod/test_api_service.php">CLICK HERE</a>]
 
 # Source Code
-Below is my code shared...
 ```
 <?php
 
