@@ -23,9 +23,5 @@ If you don't have any, then you can host it as Github Pages after forking this r
 ```
 
 ```
-Feel free to fork and send pull requests.
-```
-
-```
 Apache License 2.0
 ```
