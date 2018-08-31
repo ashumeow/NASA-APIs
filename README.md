@@ -1,5 +1,5 @@
 # NASA-APIs
-Utilizing NASA Open API - https://api.nasa.gov/
+Utilizing and Experimenting with NASA Open API - https://api.nasa.gov/
 
 ```
 Technologies I Used:
