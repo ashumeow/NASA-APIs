@@ -5,7 +5,7 @@ NASA "Astronomy Picture Of the Day" (<a href="https://apod.nasa.gov/apod/">APOD<
 For my Demo access --- [<a href="http://geekresearchlab.net/NASA/open_api/apod/test_api_service.php">CLICK HERE</a>]
 
 # Source Code
-```
+```php
 <?php
 
 $my_api_key = "<ENTER YOUR API KEY>";
@@ -38,4 +38,26 @@ echo '<br>';
 echo "Date: ".$show_date;
 
 ?>
+```
+# Build your own EXE & Generate a Simple Log
+Using a <a href="https://github.com/elnormous/HTTPRequest">HTTP Header Library</a>, you can try the below source code of mine.
+Runs in both Windows and Linux
+```cpp
+#include "<Your HTTP Header Name>"
+#include <cstdio>
+#include <iostream>
+int main(int argc, char* argv[]) {
+    try
+    {
+        http::Request request("<YOUR PHP URL>");
+        http::Response response = request.send("GET");
+        std::cout << response.body.data() << std::endl;
+        freopen( "<YOUR OUTPUT LOG FILE NAME>", "a", stdout );
+        std::cout << response.body.data() << std::endl;
+    }
+    catch (const std::exception& e)
+    {
+        std::cerr << "Request failed, error: " << e.what() << std::endl;
+    }
+}
 ```
