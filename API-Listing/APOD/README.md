@@ -40,7 +40,7 @@ echo "Date: ".$show_date;
 ?>
 ```
 # Build your own EXE & Generate a Simple Log
-Using a <a href="https://github.com/elnormous/HTTPRequest">HTTP Header Library</a>, you can try the below source code of mine.<br>
+Using a <a href="https://github.com/elnormous/HTTPRequest">HTTP Header Library</a>, you can try the below source code.<br>
 Supported Compiler: C++ 11 with <a href="https://github.com/ashumeow/NASA-APIs/tree/master/API-Listing/APOD/linkers">Linker settings</a><br>
 Runs in both <a href="https://github.com/ashumeow/NASA-APIs/tree/master/API-Listing/APOD/dll">Windows</a> and Linux 
 ```cpp
