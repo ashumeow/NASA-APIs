@@ -2,7 +2,7 @@
 NASA "Astronomy Picture Of the Day" (<a href="https://apod.nasa.gov/apod/">APOD</a>)
 
 # Demo
-For my Demo access --- [<a href="http://geekresearchlab.net/NASA/open_api/apod/test_api_service.php">CLICK HERE</a>]
+For LIVE Demo access --- [<a href="http://geekresearchlab.net/NASA/open_api/apod/test_api_service.php">CLICK HERE</a>]
 
 # Source Code
 ```php
@@ -62,4 +62,4 @@ int main(int argc, char* argv[]) {
     }
 }
 ```
-Demo access available --- <a href="https://github.com/ashumeow/NASA-APIs/tree/master/API-Listing/APOD/demo">Click Me!</a>
+Demo access (.exe) available --- <a href="https://github.com/ashumeow/NASA-APIs/tree/master/API-Listing/APOD/demo">Click Me!</a>
